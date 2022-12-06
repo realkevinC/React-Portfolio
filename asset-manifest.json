@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/realkevinC/React-Portfolio/static/css/main.b749b7bb.css",
-    "main.js": "/realkevinC/React-Portfolio/static/js/main.bcb9d98a.js",
+    "main.css": "/realkevinC/React-Portfolio/static/css/main.6356562b.css",
+    "main.js": "/realkevinC/React-Portfolio/static/js/main.3a3bb862.js",
     "static/js/787.a2cb61a6.chunk.js": "/realkevinC/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/image 1.png": "/realkevinC/React-Portfolio/static/media/image 1.fefd023ad3a57140bf62.png",
     "static/media/helvetica-neu.ttf": "/realkevinC/React-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -9,12 +9,12 @@
     "static/media/headshot.png": "/realkevinC/React-Portfolio/static/media/headshot.ddfc158ba5718fe66c8b.png",
     "static/media/CoolveticaRg-Regular.woff2": "/realkevinC/React-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/realkevinC/React-Portfolio/index.html",
-    "main.b749b7bb.css.map": "/realkevinC/React-Portfolio/static/css/main.b749b7bb.css.map",
-    "main.bcb9d98a.js.map": "/realkevinC/React-Portfolio/static/js/main.bcb9d98a.js.map",
+    "main.6356562b.css.map": "/realkevinC/React-Portfolio/static/css/main.6356562b.css.map",
+    "main.3a3bb862.js.map": "/realkevinC/React-Portfolio/static/js/main.3a3bb862.js.map",
     "787.a2cb61a6.chunk.js.map": "/realkevinC/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b749b7bb.css",
-    "static/js/main.bcb9d98a.js"
+    "static/css/main.6356562b.css",
+    "static/js/main.3a3bb862.js"
   ]
 }
