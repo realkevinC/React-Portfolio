@@ -19,7 +19,7 @@ const Sidebar = () => {
             <NavLink exact='true' activeclassname='active' className='aboutLink' to='/about'>
                 <FontAwesomeIcon icon={faUser} color='grey'/>
             </NavLink>
-            <NavLink exact='true' activeclassname='active' className='contactLink' to='/project'>
+            <NavLink exact='true' activeclassname='active' className='projectLink' to='/project'>
                 <FontAwesomeIcon icon={faSuitcase} color='grey'/>
             </NavLink>
             <NavLink exact='true' activeclassname='active' className='contactLink' to='/contact'>

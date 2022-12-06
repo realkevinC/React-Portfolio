@@ -35,10 +35,62 @@
             height: 51px;
             position: relative;
             text-decoration: none;
+
+            i {
+                transition: all 0.3s ease-out;
+              }
+        
+              &:hover {
+                color: yellow;
+        
+                svg {
+                  opacity: 0;
+                }
+        
+                &:after {
+                  opacity: 1;
+                }
+              }
+              
+            &:after {
+                content: '';
+                font-size: 9px;
+                letter-spacing: 2px;
+                position: absolute;
+                bottom: 0;
+                display: block;
+                width: 100%;
+                text-align: center;
+                opacity: 0;
+                -webkit-transition: all 0.3s ease-out;
+                transition: all 0.3s ease-out;
+              }
+            &:first-child {
+                &:after {
+                  content: 'HOME';
+                }
+            }    
+        }
+
+        a.aboutLink {
+            &:after {
+                content: 'ABOUT';
+            }
+        }
+        
+        a.contactLink {
+            &:after {
+                content: 'CONTACT';
+            }
+        }
+        
+        a.projectLink {
+            &:after {
+                content: 'PROJECT';
+            }
         }
     }
-
-    ul{
+    ul {
         position: absolute;
         bottom: 20px;
         width: 100%;
@@ -53,9 +105,7 @@
                 display: block;
                 font-size: 15px;
                 line-height: 16px;
-
             }
-        }
-    }
+        }   
+    } 
 }
-
